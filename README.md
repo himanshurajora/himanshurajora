@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I Am Himansh Jangid, हिमांशु जांगिड़
+### I Am Himanshu Jangid, हिमांशु जांगिड़
 
 #### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
 #### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science Engineeing Branch
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>

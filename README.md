@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-### I am Himansh Jangid, हिमांशु जांगिड़
+### I Am Himansh Jangid, हिमांशु जांगिड़
 
 #### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
 
 <br>
+
+My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
+I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills, I Like Do 
+Things As Fast As Possible So That They Doesn't Take More Of My Time 
+
+<br>
+I Started My Journey With Computers In 2017.
+Currently Working On Technologies Like Node JS and AI.
+I have Worked On Many Projects Like :
+VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush and Many More
+And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
+
+
 
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

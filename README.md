@@ -3,12 +3,13 @@
 ### I Am Himansh Jangid, हिमांशु जांगिड़
 
 #### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
+#### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science And Engineeing Branch
 
 <br>
 
 My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
-I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time 
+I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time.
 <br>
 I Started My Journey With Computers In 2017.
 <br>

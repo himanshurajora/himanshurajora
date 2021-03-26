@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit1509)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-[![GitHub metrics](https://metrics.lecoq.io/ankit1509)](https://metrics.lecoq.io/ankit1509)  
+[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankit1509)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  
 
-![Profile views](https://gpvc.arturio.dev/ankit1509)   
+![Profile views](https://gpvc.arturio.dev/himanshurajora)   
 
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>

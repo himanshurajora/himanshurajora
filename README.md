@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-# I am Himansh Jangid, हिमांशु जांगिड़
+### I am Himansh Jangid, हिमांशु जांगिड़
 
-<h3>Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers</h3>
+#### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
+
+<br>
 
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,14 +7,18 @@
 <br>
 
 My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
-I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills, I Like Do 
-Things As Fast As Possible So That They Doesn't Take More Of My Time 
+<br>
+I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
+<br>
+I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time 
 
 <br>
 I Started My Journey With Computers In 2017.
+<br>
 Currently Working On Technologies Like Node JS and AI.
 I have Worked On Many Projects Like :
 VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush and Many More
+<br>
 And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 
 

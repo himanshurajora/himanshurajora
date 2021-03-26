@@ -3,7 +3,7 @@
 ### I Am Himansh Jangid, हिमांशु जांगिड़
 
 #### Founder Of Vedik Cyber Forces, A Team Of Enthusiastic Computer Science Engineers 
-#### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science And Engineeing Branch
+#### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science Engineeing Branch
 
 <br>
 

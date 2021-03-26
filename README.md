@@ -7,11 +7,8 @@
 <br>
 
 My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
-<br>
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
-<br>
 I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time 
-
 <br>
 I Started My Journey With Computers In 2017.
 <br>
@@ -21,6 +18,11 @@ VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikk
 <br>
 And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 
+<br>
+
+So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
+<br>
+Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 
 
 <!--

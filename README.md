@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/himanshurajora)   
 
 
-<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
+<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2> -->

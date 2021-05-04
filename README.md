@@ -26,6 +26,8 @@ So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, 
 Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 
 
+[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
+
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

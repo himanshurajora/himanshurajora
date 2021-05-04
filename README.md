@@ -28,6 +28,7 @@ Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora) 
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

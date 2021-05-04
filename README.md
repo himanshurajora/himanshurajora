@@ -29,6 +29,9 @@ Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora) 
+
+
+![Profile views](https://gpvc.arturio.dev/himanshurajora)   
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,7 +54,6 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  
 
-![Profile views](https://gpvc.arturio.dev/himanshurajora)   
 
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2> -->

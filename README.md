@@ -27,7 +27,7 @@ Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit1509)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-<a href="https://github.com/ankit1509/ankit1509"> 
+<a href="https://github.com/himanshurajora/himanshurajora"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" /> </a>
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  

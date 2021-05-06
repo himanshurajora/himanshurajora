@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
+<a href="https://github.com/ankit1509/ankit1509"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" />
+
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora)  

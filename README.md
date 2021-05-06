@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <hr>
 
 <a href="https://github.com/ankit1509/ankit1509"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu's GitHub Stats" width="400" /> </a>
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)  
 

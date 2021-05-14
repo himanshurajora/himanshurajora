@@ -25,7 +25,8 @@ So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, 
 <br>
 Here's <a href="https://vcfstudio.in/members/himanshu">My Portfolio</a>
 
-![orgs](https://vcfjr.github.io/orgstats/index.svg)
+Number of Organizations that I am Connected to Are: 
+![orgs](https://orgstats-ppjgdfj0c-himanshurajora.vercel.app/?username=himanshurajora)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 

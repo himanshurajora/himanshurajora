@@ -30,7 +30,7 @@ Some Of My Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
 </p>
 <br>
-![Trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <p>
 <img src="https://metrics.lecoq.io/himanshurajora">

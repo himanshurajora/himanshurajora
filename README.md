@@ -31,7 +31,7 @@ Some Of My Github Stats
 </p>
 <br>
 Number of Organizations that I am Connected to Are: 
-*** <br>
+
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

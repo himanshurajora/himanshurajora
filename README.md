@@ -36,7 +36,7 @@ Some Of My Github Stats
 </p>
 <br>
 <p>
-<img src="https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora">
+<img src="https://metrics.lecoq.io/himanshurajora">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora">
 </p>
 <br>

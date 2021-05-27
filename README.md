@@ -29,7 +29,7 @@ Some Of My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=40&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
 </p>
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <p>

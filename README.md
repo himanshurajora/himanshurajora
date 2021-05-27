@@ -26,21 +26,18 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
 <br>
 Some Of My Github Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=40&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
-</p>
-<br>
-
-<p>
-     <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
-    
-     <img src="https://orgstats.vercel.app/?username=himanshurajora">
+<img src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=40&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
 </p>
 <br>
 <p>
-     <img src="https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora">
-    
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora">
+ <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://orgstats.vercel.app/?username=himanshurajora">
+</p>
+<br>
+<p>
+<img src="https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora">
 </p>
 <br>
 

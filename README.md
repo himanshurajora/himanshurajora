@@ -31,7 +31,7 @@ Some Of My Github Stats
 </p>
 <br>
 <p>
- <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy">
 </p>
 <br>
 <p>

@@ -22,7 +22,13 @@ And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
-
+<br>
+Some Of My Github Stats
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=saumyajain125&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyajain125&theme=midnight-purple">
+</p>
+<br>
 Number of Organizations that I am Connected to Are: 
 ***
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)

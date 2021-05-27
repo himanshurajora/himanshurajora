@@ -30,8 +30,8 @@ Some Of My Github Stats
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
 </p>
 <br>
-Number of Organizations that I am Connected to Are: 
-<br>
+### Number of Organizations that I am Connected to Are: 
+
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

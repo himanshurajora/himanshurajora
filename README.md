@@ -22,6 +22,7 @@ And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
+***
 <br>
 Some Of My Github Stats
 <p>
@@ -30,7 +31,7 @@ Some Of My Github Stats
 </p>
 <br>
 Number of Organizations that I am Connected to Are: 
-***
+*** <br>
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

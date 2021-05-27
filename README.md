@@ -31,9 +31,10 @@ Some Of My Github Stats
 </p>
 <br>
 
-![orgs](https://orgstats.vercel.app/?username=himanshurajora)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+     <img src="https://orgstats.vercel.app/?username=himanshurajora">
+     <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
+</p>
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
 

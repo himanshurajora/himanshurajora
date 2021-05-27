@@ -30,7 +30,6 @@ Some Of My Github Stats
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora">
 </p>
 <br>
-### Number of Organizations that I am Connected to Are: 
 
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)
 

@@ -32,14 +32,17 @@ Some Of My Github Stats
 <br>
 
 <p>
-     <img src="https://orgstats.vercel.app/?username=himanshurajora">
      <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
+    
+     <img src="https://orgstats.vercel.app/?username=himanshurajora">
 </p>
-
-[![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora) 
-
+<br>
+<p>
+     <img src="https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora">
+    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora">
+</p>
+<br>
 
 
 ![Profile views](https://gpvc.arturio.dev/himanshurajora)   

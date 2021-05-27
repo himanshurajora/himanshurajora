@@ -32,7 +32,6 @@ Some Of My Github Stats
 <br>
 <p>
  <img src="https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://orgstats.vercel.app/?username=himanshurajora">
 </p>
 <br>
 <p>
@@ -42,7 +41,8 @@ Some Of My Github Stats
 <br>
 
 
-![Profile views](https://gpvc.arturio.dev/himanshurajora)   
+![Profile views](https://gpvc.arturio.dev/himanshurajora) <br>  
+<img src="https://orgstats.vercel.app/?username=himanshurajora">
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

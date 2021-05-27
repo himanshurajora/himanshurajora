@@ -39,10 +39,10 @@ Some Of My Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora">
 </p>
 <br>
-
-
-![Profile views](https://gpvc.arturio.dev/himanshurajora) <br>  
 <img src="https://orgstats.vercel.app/?username=himanshurajora">
+<br>  
+
+![Profile views](https://gpvc.arturio.dev/himanshurajora) 
 <!--
 **himanshurajora/himanshurajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

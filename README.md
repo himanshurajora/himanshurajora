@@ -27,7 +27,7 @@ Number of Organizations that I am Connected to Are:
 ***
 ![orgs](https://orgstats.vercel.app/?username=himanshurajora)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshurajora&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub metrics](https://metrics.lecoq.io/himanshurajora)](https://metrics.lecoq.io/himanshurajora)
 

@@ -38,9 +38,14 @@ And Currently I Am Working On 2 Projects : JavaScript And Web Technologies
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
-***
-## 🙋‍♂️ Connect with me
+
 <br>
+
+****
+## 🙋‍♂️ Connect with me
+
+<br>
+
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.github.com/himanshurajora"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -51,7 +56,7 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
 </p>
 <br>
 
-***
+****
 
 Some Of My Github Stats
 <p>

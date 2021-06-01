@@ -40,7 +40,7 @@ So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, 
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
 ***
 ## 🙋‍♂️ Connect with me
-
+<br>
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.github.com/himanshurajora"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -49,8 +49,10 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
   <a href="https://www.instagram.com/himy.in/">
   <img alt="Ankit's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-***
 <br>
+
+***
+
 Some Of My Github Stats
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&line_height=40&count_private=true">

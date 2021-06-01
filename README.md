@@ -7,7 +7,7 @@
 <h3 align="center">
   I Am Himanshu Jangid हिमांशु जांगिड़,  Founder Of Vedik Cyber Forces
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>### Hi there 👋
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20Developer;A%20MEAN%20Stack%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -32,13 +32,23 @@ Currently Working On Technologies Like Node JS and AI.
 I have Worked On Many Projects Like :
 VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush and Many More
 <br>
-And Currently I Am Working On 2 Projects : VCFProject-Node And Sword Engine
+And Currently I Am Working On 2 Projects : JavaScript And Web Technologies 
 
 <br>
-
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
+***
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+  <a href="https://www.github.com/himanshurajora"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-jangid-5a334a196/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/15781928/himanshu-jangidy"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.instagram.com/himy.in/">
+  <img alt="Ankit's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 ***
 <br>
 Some Of My Github Stats

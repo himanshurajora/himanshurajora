@@ -37,7 +37,7 @@ And Currently I Am Working On 2 Projects : JavaScript And Web Technologies
 <br>
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
 <br>
-Here's <a href="https://himanshurajora.github.io">My Portfolio</a>
+Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
 
 <br>
 

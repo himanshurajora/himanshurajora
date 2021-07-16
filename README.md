@@ -72,7 +72,7 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <hr/>
 <hr/>
 
-## 🛠️ My favorite tools
+## 🛠️ My Favrite Tools
 
 ### 👨‍💻 Programming languages
 

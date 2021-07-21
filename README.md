@@ -17,7 +17,6 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/himanshurajora?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <hr>
-
 ## About Me
  
 #### I Am A Student At <a href="https://anandice.ac.in">Anand International College Of Engineering</a> In Computer Science Engineeing Branch

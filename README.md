@@ -153,7 +153,7 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <details> 
   <summary>🏆 GitHub Profile Trophy</summary>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="himanshurajora's Top Languages" src="https://github-profile-trophy.vercel.app/?username=himanshurajora&theme=radical" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="himanshurajora's Top Languages" src="https://github-profile-trophy.vercel.app/?username=himanshurajora" /></a>
   <br/>
   <br/>
 </details>

@@ -30,14 +30,16 @@ Currently Working On Technologies Like Node JS and AI.
 I have Worked On Many Projects Like :
 VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush and Many More
 <br>
-And Currently I Am Working On 2 Projects : JavaScript And Web Technologies 
+And Currently I Am Working On - "I won't tell you what I am working on"
 
 <br>
-So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc.
+So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc, TypeScript, Firebase, NodeJS, React, Angular etc.
 <br>
 Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
 
 <br>
+
+![Animation1](./anim1.gif)
 
 ****
 ## 🙋‍♂️ Connect with me

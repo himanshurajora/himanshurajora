@@ -21,20 +21,23 @@
 </p>
 <hr>
 
-<h2 align="left>About me</h2>
+---
 
-<p> I am a student of Computer Engineering at `<a href="https://anandice.ac.in">Anand International College Of Engineering.</a></p>
 
-<p>I started my journey in 2017. Came across several technologies along the way.</p>
+### About me
 
-<p>Got a Full Stack internship at Wisflux Tech Labs, Jaipur.</p>
+I am a student of Computer Engineering at <a href="https://anandice.ac.in">Anand International College Of Engineering.</a>
 
-<p>In love with A.I. and NodeJS.</p>
+I started my journey in 2017. Came across several technologies along the way.
 
-<p>Worked on projects like VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush.</p>
+Working as a Full Stack web developer at Wisflux Tech Labs, Jaipur.
 
-<p>Following, the following technologies
-C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java, TypeScript, Firebase, NodeJS, React, Angular.</p>
+In love with A.I. and NodeJS.
+
+Worked on projects like VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush.
+
+Following, the following technologies
+C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java, TypeScript, Firebase, NodeJS, React, Angular.
 
 Here's <a href="https://himanshurajora.vercel.app">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
 
@@ -54,6 +57,7 @@ Here's <a href="https://himanshurajora.vercel.app">My Portfolio</a> and <a href=
   <img alt="Himanshu Jangid's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://www.reddit.com/user/himanshurajora">
   <img alt="Himanshu Jangid's Reddit" title="Reddit" src="https://img.shields.io/badge/-reddit-red?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://www.grepper.com/profile/himanshu-jangid"><img alt="Himanshu Jangid's Grepper" title="Code Grepper" src="https://img.shields.io/badge/-grepper-purple?style=for-the-badge&logo=codegrepper&logoColor=white" /> </a>
 </p>
 <br>
 

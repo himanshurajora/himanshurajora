@@ -16,30 +16,20 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/himanshurajora?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <p align="center">
-  <a href="https://himanshurajora.gumroad.com/">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-💻-22ff22?color=22ff22&labelColor=55ff55&style=for-the-badge&logo=coffee&label=Buy My Products"/></a>
+<a align="center" href="https://www.buymeacoffee.com/himanshurajora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-<hr>
 
 ---
-
-
 ### About me
 
-I am a student of Computer Engineering at <a href="https://anandice.ac.in">Anand International College Of Engineering.</a>
+- I am a Software Engineer from India.
+- I started my journey in 2017. Came across several technologies along the way.
+- Currently working as a Full Stack web developer at Wisflux Tech Labs, Jaipur.
+- In love with A.I. and NodeJS.
+- Please Checkout my code
+- I work with C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java, TypeScript, Firebase, NodeJS, React, Angular.
 
-I started my journey in 2017. Came across several technologies along the way.
-
-Working as a Full Stack web developer at Wisflux Tech Labs, Jaipur.
-
-In love with A.I. and NodeJS.
-
-Worked on projects like VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush.
-
-Following, the following technologies
-C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java, TypeScript, Firebase, NodeJS, React, Angular.
-
-Here's <a href="https://himanshurajora.vercel.app">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
+Here's <a href="https://himanshujangid.com">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
 
 <hr/>
 
@@ -58,6 +48,8 @@ Here's <a href="https://himanshurajora.vercel.app">My Portfolio</a> and <a href=
     <a href="https://www.reddit.com/user/himanshurajora">
   <img alt="Himanshu Jangid's Reddit" title="Reddit" src="https://img.shields.io/badge/-reddit-red?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://www.grepper.com/profile/himanshu-jangid"><img alt="Himanshu Jangid's Grepper" title="Code Grepper" src="https://img.shields.io/badge/-grepper-purple?style=for-the-badge&logo=codegrepper&logoColor=white" /> </a>
+    <a href="https://himanshurajora.gumroad.com/">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-💻-22ff22?color=22ff22&labelColor=55ff55&style=for-the-badge&logo=coffee&label=Buy My Products"/></a>
 </p>
 <br>
 
@@ -68,12 +60,4 @@ Here's <a href="https://himanshurajora.vercel.app">My Portfolio</a> and <a href=
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="himanshurajora's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-<hr/>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="himanshurajora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himanshurajora&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />``</a>
-
-<hr/>
-<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/himanshurajora"/>
 <hr/>

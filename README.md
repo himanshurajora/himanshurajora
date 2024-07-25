@@ -25,7 +25,7 @@
 - I am a Software Engineer from India.
 - I started my journey in 2017. Came across several technologies along the way.
 - Currently working as a Full Stack web developer at Wisflux Tech Labs, Jaipur.
-- In love with A.I. and NodeJS.
+- In love NodeJS.
 - Please Checkout my code
 - I work with C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java, TypeScript, Firebase, NodeJS, React, Angular.
 
